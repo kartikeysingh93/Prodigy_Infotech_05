@@ -22,11 +22,11 @@ Provide step-by-step instructions on how to install and set up the project local
 
 # Example installation steps
 
-git clone https://github.com/KartikeyanTomar/PRODIGY_CS_04.git
+git clone https://github.com/kartikeysingh93/Prodigy_Infotech_05
 
-cd PRODIGY_CS_05
+cd Prodigy_Infotech_05
 
-python3 net_packlyser.py
+python3 task5.py
 
 
 **# Usage**
